@@ -140,8 +140,11 @@ ul {
   clear: both;
 }
 
+.hidden {
+  visibility: hidden;
+}
 
-@keyframes App-logo-spin {
+/* @keyframes App-logo-spin {
   from {
     transform: rotate(0deg);
   }
@@ -149,4 +152,4 @@ ul {
   to {
     transform: rotate(360deg);
   }
-}
+} */
